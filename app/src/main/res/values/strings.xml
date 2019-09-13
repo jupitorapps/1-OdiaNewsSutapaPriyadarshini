@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Odia News Paper</string>
+    <string name="today_paper">ଆଜିର ପେପର ଦେଖନ୍ତୁ</string>
+
+    <string name="admobAppId">ca-app-pub-8506595850503843~5808437215</string>
+    <string name="admob_inter">ca-app-pub-8506595850503843/3659057260</string>
+
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="read_website">ୱେବସାଇଟ ରେ ପଢନ୍ତୁ</string>
+    <string name="about">I\'m Pradeep Behera, developed this app so that you can get all Odia News Papers in one app. You can read all ePapers and news from website. If you have any feedback please share with me. If you like the app please give good rating in play store and good review so that it can be useful to other members also.</string>
+</resources>
